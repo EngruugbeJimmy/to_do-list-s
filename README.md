@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
- <img src="https://raw.githubusercontent.com/0xMALVEE/malvee-portfolio/main/logo.png" alt="logo" width="140"  height="auto" />
+ <img src="https://avatars.githubusercontent.com/u/89143961?s=400&u=7dcc70bcd91ba4baaccd1d80e64fa85aadbcaa62&v=4" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Todo List</b></h3>
@@ -114,7 +114,7 @@ commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/0xMALVEE/todos.git
+  git clone https://github.com/Engrugbejimmy/todos.git
 ```
 -
 
@@ -170,11 +170,11 @@ You can deploy this project by just pushing it and github pages will do the rest
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Alvee**
+👤 **EngruugbeJimmy**
 
-- GitHub: [@githubhandle](https://github.com/0xmalvee)
-- Twitter: [@twitterhandle](https://twitter.com/alveedev)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/0xmalvee)
+- GitHub: [@githubhandle](https://github.com/EngruugbeJimmy)
+- Twitter: [@twitterhandle](https://twitter.com/abbaJdev)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/james-ugbedeojo-abah-356982159/)
 
 
 
